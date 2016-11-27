@@ -1,0 +1,19 @@
+{
+  "name": "frontle-json-form-builder",
+  "version": "1.0.0",
+  "description": "Frontle json form builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frontle",
+    "json",
+    "form",
+    "builder"
+  ],
+  "author": "Utkarsh85",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
